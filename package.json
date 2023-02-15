@@ -1,0 +1,25 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiwari-Pratik/node-basics.git"
+  },
+  "author": "Pratik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiwari-Pratik/node-basics/issues"
+  },
+  "homepage": "https://github.com/Tiwari-Pratik/node-basics#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
